@@ -1,0 +1,5 @@
+{
+    "openweathermap_appid": "***",
+    "influxdb_user": "weather",
+    "influxdb_pass": "***"
+}
